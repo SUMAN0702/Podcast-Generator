@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+crewai[google-genai]
+langchain_ollama
+gradio
+elevenlabs
+python-dotenv
+firecrawl
+litellm
+groq
