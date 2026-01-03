@@ -1,0 +1,6 @@
+streamlit
+groq
+firecrawl-py
+python-dotenv
+elevenlabs
+gradio
